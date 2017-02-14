@@ -33,40 +33,72 @@ public class MergeSortTester
     {
 	int[] one = new int[1]; 
         MergeSort.mess(one); 
-        long begin = System.currentTimeMillis(); 
+        long begin = System.nanoTime();
 	MergeSort.sort(one); 
-        long end = System.currentTimeMillis();
-	System.out.println("Time for one: " + (end-begin));
+        long end = System.nanoTime();
+	System.out.println("Time for one: " + (end-begin)/1000.0);
 
 
 
 	int[] ten = new int[10];
 	MergeSort.mess(ten); 
-        begin = System.currentTimeMillis();
+        begin = System.nanoTime();
 	MergeSort.sort(ten); 
-        end = System.currentTimeMillis();
-	System.out.println("Time for ten: " + (end-begin)); 
+        end = System.nanoTime();
+	System.out.println("Time for ten: " + (end-begin)/1000.0); 
 
 
 
 	int[] hun = new int[100]; 
 	MergeSort.mess(hun); 
-        begin = System.currentTimeMillis();
+        begin = System.nanoTime();
 	MergeSort.sort(hun); 
-        end = System.currentTimeMillis();
-	System.out.println("Time for hundred: " + (end-begin));
+        end = System.nanoTime();
+	System.out.println("Time for hundred: " + (end-begin)/1000.0);
 
 
 
 	int[] thou = new int[1000]; 
 	MergeSort.mess(thou); 
-        begin = System.currentTimeMillis();
+        begin = System.nanoTime();
 	MergeSort.sort(thou); 
-        end = System.currentTimeMillis();
-	System.out.println("Time for thousand: " + (end-begin));
+        end = System.nanoTime();
+	System.out.println("Time for thousand: " + (end-begin)/1000.0);
 
+	int[] tthou = new int[10000]; 
+	MergeSort.mess(tthou); 
+        begin = System.nanoTime();
+	MergeSort.sort(tthou); 
+        end = System.nanoTime();
+	System.out.println("Time for ten-thousand: " + (end-begin)/1000.0);
 
+	int[] hthou = new int[100000]; 
+	MergeSort.mess(hthou); 
+        begin = System.nanoTime();
+	MergeSort.sort(hthou); 
+        end = System.nanoTime();
+	System.out.println("Time for hundred-thousand: " + (end-begin)/1000.0);
 
+	int[] mil = new int[1000000]; 
+	MergeSort.mess(mil); 
+        begin = System.nanoTime();
+	MergeSort.sort(mil); 
+        end = System.nanoTime();
+	System.out.println("Time for million: " + (end-begin)/1000.0);
+
+	int[] mil0 = new int[10000000]; 
+	MergeSort.mess(mil0); 
+        begin = System.nanoTime();
+	MergeSort.sort(mil0); 
+        end = System.nanoTime();
+	System.out.println("Time for hundred-thousand: " + (end-begin)/1000.0);
+
+	int[] mil00 = new int[100000000]; 
+	MergeSort.mess(mil00); 
+        begin = System.nanoTime();
+	MergeSort.sort(mil00); 
+        end = System.nanoTime();
+	System.out.println("Time for hundred-thousand: " + (end-begin)/1000.0);
     }//end main
 
 }//end class
