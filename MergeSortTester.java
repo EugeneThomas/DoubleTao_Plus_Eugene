@@ -1,3 +1,10 @@
+/*
+Team DoubleTao Plus Eugene - Xing Tao Shi, Iris Tao, EugeneThomas
+APCS2 pd4
+HW7-- What Does the Data Say?
+2017-2-14
+ */
+
 /*======================================
   class MergeSortTester
 
@@ -28,9 +35,7 @@ public class MergeSortTester
 {
     /******************************
      * execution time analysis 
-     * <INSERT YOUR DESCRIPTION HERE OF 
-     *  YOUR APPARATUS FOR GENERATING EXECUTION 
-     *  TIME DATA...>
+We took the difference between the nanoTime of when the proccess starts and the nanoTime of when it ends. We repeated this process four times and then divided by four in order to find the average amount of time that it would take. 
      ******************************/
 
     public static void main( String[] args ) 
