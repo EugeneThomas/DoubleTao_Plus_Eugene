@@ -17,7 +17,9 @@ HW7-- What Does the Data Say?
   Mean execution times for dataset of size n:
   Batch size: 4
   n=1            time: 0.50975 
+  n=5            time: 4.8195
   n=10           time: 11.22800
+  n=50           time: 69.4275
   n=100          time: 118.66999
   n=1,000        time: 306.07849
   n=10,000       time: 2820.663
@@ -27,7 +29,7 @@ HW7-- What Does the Data Say?
   n=100,000,000  time: 1.29494E7
 
   ANALYSIS:
-  <INSERT YOUR RESULTS ANALYSIS HERE>
+  After graphing the results, they looked most similiar to O(sqrt(n)). We don't understand our results but we can't find any errors. 
   ======================================*/ 
 
 public class MergeSortTester 
@@ -67,7 +69,34 @@ We took the difference between the nanoTime of when the proccess starts and the 
 
 	System.out.println("Time for one: " + time1/4.000);
 	
+	int[] five = new int[5];
+	double time5 = 0.0;
 
+	MergeSort.mess(five); 
+        begin = System.nanoTime();
+	MergeSort.sort(five); 
+        end = System.nanoTime();
+	time5 += (end-begin)/1000.0;
+
+	MergeSort.mess(five); 
+        begin = System.nanoTime();
+	MergeSort.sort(five); 
+        end = System.nanoTime();
+	time5 += (end-begin)/1000.0;
+
+	MergeSort.mess(five); 
+        begin = System.nanoTime();
+	MergeSort.sort(five); 
+        end = System.nanoTime();
+	time5 += (end-begin)/1000.0;
+
+	MergeSort.mess(five); 
+	begin = System.nanoTime();
+	MergeSort.sort(five); 
+        end = System.nanoTime();
+	time5 += (end-begin)/1000.0;
+	
+	System.out.println("Time for five: " + time5/4.0);
 
 	int[] ten = new int[10];
 	double time10 = 0.0;
@@ -95,7 +124,31 @@ We took the difference between the nanoTime of when the proccess starts and the 
 
 	System.out.println("Time for ten: " + time10/4.0);
 	
+	int[] fifty = new int[50]; 
+	double time50 = 0.0;
 
+	MergeSort.mess(fifty); 
+        begin = System.nanoTime();
+	MergeSort.sort(fifty); 
+        end = System.nanoTime();
+	time50 += (end-begin)/1000.0;
+
+        begin = System.nanoTime();
+	MergeSort.sort(fifty); 
+        end = System.nanoTime();
+	time50 += (end-begin)/1000.0;
+
+	begin = System.nanoTime();
+	MergeSort.sort(fifty); 
+        end = System.nanoTime();
+	time50 += (end-begin)/1000.0;
+
+	begin = System.nanoTime();
+	MergeSort.sort(fifty); 
+        end = System.nanoTime();
+	time50 += (end-begin)/1000.0;
+
+	System.out.println("Time for fifty: " + time50/4.0);
 
 	int[] hun = new int[100]; 
 	double time100 = 0.0;
