@@ -91,14 +91,14 @@ public class MergeSortTester
         begin = System.nanoTime();
 	MergeSort.sort(mil0); 
         end = System.nanoTime();
-	System.out.println("Time for ten-million: " + (end-begin)/1000.0);
+	System.out.println("Time for hundred-thousand: " + (end-begin)/1000.0);
 
 	int[] mil00 = new int[100000000]; 
 	MergeSort.mess(mil00); 
         begin = System.nanoTime();
 	MergeSort.sort(mil00); 
         end = System.nanoTime();
-	System.out.println("Time for hundred-million: " + (end-begin)/1000.0);
+	System.out.println("Time for hundred-thousand: " + (end-begin)/1000.0);
     }//end main
 
 }//end class
