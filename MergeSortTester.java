@@ -2,13 +2,13 @@
   class MergeSortTester
 
   ALGORITHM:
-  <INSERT YOUR DISTILLATION OF ALGO HERE>
+  Split the array in half until they are 1 element arrays. This guarantees that the arrays are sorted. Then combine the two arrays that are recieved by comparing the first value of each array. Return the array after  sorting it. Rinse and repeat until you have a sorted array. 
 
-  BIG-OH CLASSIFICATION OF ALGORITHM:
-  <INSERT YOUR EXECUTION TIME CATEGORIZATION OF MERGESORT HERE>
+
+  BIG-OH CLASSIFICATION OF ALGORITHM: nlog(n)
 
   Mean execution times for dataset of size n:
-  Batch size: <# of times each dataset size was run>
+  Batch size: 4
   n=1            time: 0.50975 
   n=10           time: 11.22800
   n=100          time: 118.66999
