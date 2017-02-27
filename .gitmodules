@@ -1,0 +1,129 @@
+[submodule "1/BLTOnARoll_Kwong-B_Zhang-Y_Zhang-D"]
+    path = 1/BLTOnARoll_Kwong-B_Zhang-Y_Zhang-D
+    url = https://github.com/yuyangz/BLTOnARoll.git
+[submodule "1/Big-N-Of-o_Maggie-X_Joshel-X_Jake-Z"]
+    path = 1/Big-N-Of-o_Maggie-X_Joshel-X_Jake-Z
+    url = https://github.com/jzaia18/Team-Big-N-of-O.git
+[submodule "3/Last_Zheng-R_Zheng-H_Xiang-Q"]
+    path = 3/Last_Zheng-R_Zheng-H_Xiang-Q
+    url = https://github.com/rhuiz4/MergeSort-Time.git
+[submodule "3/JVN_Weng-J_Teoh-V_Tang-N"]
+    path = 3/JVN_Weng-J_Teoh-V_Tang-N
+    url = https://github.com/DevJW2/JVN.git
+[submodule "4/WeHaveNotDecidedOnATeamName_Zhang-J_Zhou-J_Yu-C"]
+    path = 4/WeHaveNotDecidedOnATeamName_Zhang-J_Zhou-J_Yu-C
+    url = https://github.com/Xylofones/WeHaveNotDecidedOnATeamName.git
+[submodule "4/bob_Wong-T_Roktim-A_Yan-P"]
+    path = 4/bob_Wong-T_Roktim-A_Yan-P
+    url = https://github.com/ArifRoktim/bob.git
+[submodule "4/Honya_Wang-Z_Wang-A_Tricarico-G"]
+    path = 4/Honya_Wang-Z_Wang-A_Tricarico-G
+    url = https://github.com/awang18/TeamHonya.git
+[submodule "5/e-MERGE-ingChampions_Yu-J_Zhang-E_Zhang-B"]
+    path = 5/e-MERGE-ingChampions_Yu-J_Zhang-E_Zhang-B
+    url = git@github.com:jenyu7/e-MERGE-ingChampions.git
+[submodule "5/CaMRy_Siu-R_Smith-Salzberg-C_Tamara-M"]
+    path = 5/CaMRy_Siu-R_Smith-Salzberg-C_Tamara-M
+    url = git@github.com:csmithsalzberg/CaMRy.git
+[submodule "4/Jericho_Ng-M_Rafi-S_Mallick-A"]
+    path = 4/Jericho_Ng-M_Rafi-S_Mallick-A
+    url = https://github.com/MarcusNg/Jericho.git
+[submodule "1/eegMr_Rahman-A_Ro-E_Ruvinshteyn-M"]
+    path = 1/eegMr_Rahman-A_Ro-E_Ruvinshteyn-M
+    url = https://github.com/MRuvinshteyn/eegMr.git
+[submodule "1/Grapes_Liu-H_Woo-J"]
+    path = 1/Grapes_Liu-H_Woo-J
+    url = https://github.com/JackieW001/Grapes_Woo-J_Liu-H.git
+[submodule "5/ZeekyBoogyDoog_Elsharawy-M_Frid-D_Huang-C"]
+    path = 5/ZeekyBoogyDoog_Elsharawy-M_Frid-D_Huang-C
+    url = git@github.com:Razorflame3912/ZeekyBoogyDoog.git
+[submodule "5/healthyliving_Chen-T_Chan-B"]
+    path = 5/healthyliving_Chen-T_Chan-B
+    url = https://github.com/tchen9/healthyliving.git
+[submodule "5/RuntimeAccessors_Huang-D_Ionkina-K_Islam-S"]
+    path = 5/RuntimeAccessors_Huang-D_Ionkina-K_Islam-S
+    url = https://github.com/daweihuangstuy/RuntimeAccessors.git
+[submodule "1/MurgeSurt_Chen-K_Cheung-J_Cuenca-G"]
+    path = 1/MurgeSurt_Chen-K_Cheung-J_Cuenca-G
+    url = https://github.com/kchen29/MurgeSurt.git
+[submodule "5/MergeSort_Johnson-C_Moi-T_Jin-B_Lam-I"]
+    path = 5/MergeSort_Johnson-C_Moi-T_Jin-B_Lam-I
+    url = https://github.com/clivejj/MergeSort.git
+[submodule "5/NOM_Ng-A_Mok-E_Olevsky-L"]
+    path = 5/NOM_Ng-A_Mok-E_Olevsky-L
+    url = https://github.com/angelng1412/NOM.git
+[submodule "3/Strawberry_Cruz-Marsted-N_Eng-L_Chung-E"]
+    path = 3/Strawberry_Cruz-Marsted-N_Eng-L_Chung-E
+    url = https://github.com/leng3/Team-Strawberry.git
+[submodule "3/DistressedCeilingFans_Acuna-M_Apterman-D_Cartegni-A"]
+    path = 3/DistressedCeilingFans_Acuna-M_Apterman-D_Cartegni-A
+    url = https://github.com/DavidApterman/distressed-ceiling-fans.git
+[submodule "1/PowerpuffGirls_Kang-Y_Lei-C_Tung-D"]
+    path = 1/PowerpuffGirls_Kang-Y_Lei-C_Tung-D
+    url = https://github.com/clei1/PowerPuffGirls.git
+[submodule "5/Mergererer_Lam-J_Liu-J_Milewski-P"]
+    path = 5/Mergererer_Lam-J_Liu-J_Milewski-P
+    url = https://github.com/piotrmilewski/Mergererer.git
+[submodule "3/FingerPuppetMafia_Li-E_Korsun-M_Lin-H"]
+    path = 3/FingerPuppetMafia_Li-E_Korsun-M_Lin-H
+    url = git@github.com:MrEricL/MergeSort.git
+[submodule "5/SortOfOnTask_Ahmed-F_Boylan-A"]
+    path = 5/SortOfOnTask_Ahmed-F_Boylan-A
+    url = git@github.com:fahmed3/MergeSort.git
+[submodule "1/MergeSortMechanics_Lum-J_Ngo-S_Quang-J"]
+    path = 1/MergeSortMechanics_Lum-J_Ngo-S_Quang-J
+    url = https://github.com/JonathanQuang/MergeSortMechanics.git
+[submodule "5/DAM_Regassa-D_Qu-A_Shafran-M"]
+    path = 5/DAM_Regassa-D_Qu-A_Shafran-M
+    url = git@github.com:Mshafran/DAM.git
+[submodule "1/DMK_Wang-K_Tabassum-M_Sparakis-D"]
+    path = 1/DMK_Wang-K_Tabassum-M_Sparakis-D
+    url = git@github.com:kwang7/mergeSort.git
+[submodule "4/Token_Chen-X_Chow-M_Cruse-J"]
+    path = 4/Token_Chen-X_Chow-M_Cruse-J
+    url = https://github.com/jacruse/mergeSort.git
+[submodule "3/Sssnakez_Smith-J_Shafrina-D_Sit-J"]
+    path = 3/Sssnakez_Smith-J_Shafrina-D_Sit-J
+    url = https://github.com/JesseSit/sssnakez.git
+[submodule "4/asyouplease_Berri-B_Peters-T_Naing-N"]
+    path = 4/asyouplease_Berri-B_Peters-T_Naing-N
+    url = https://github.com/bberri1205/as-you-please.git
+[submodule "3/MadSmarts_L-Jeffrey_L-Leo_N-Gabi_P-Allard"]
+    path = 3/MadSmarts_L-Jeffrey_L-Leo_N-Gabi_P-Allard
+    url = https://github.com/gnewman00/MadSmarts.git
+[submodule "4/SupremePancake_Dao-T_Fomina-S_Ju-D"]
+	path = 4/SupremePancake_Dao-T_Fomina-S_Ju-D
+	url = https://github.com/sfomina/Supreme-Pancake.git
+[submodule "1/L-Takers_Lin-K_Lawren-V_Leksanov-D"]
+	path = 1/L-Takers_Lin-K_Lawren-V_Leksanov-D
+	url = https://github.com/v-law/L-Takers.git
+[submodule "4/Enhanced-dodeca-waffles_Lin-T_Luo-E_Mahdi-I"]
+	path = 4/Enhanced-dodeca-waffles_Lin-T_Luo-E_Mahdi-I
+	url = git@github.com:Hyhyme/Enhanced-dodeca-waffles.git
+[submodule "4/AACK_Lee-A_Li-K_Kim-A"]
+	path = 4/AACK_Lee-A_Li-K_Kim-A
+	url = git@github.com:alee023/AACK.git
+[submodule "3/3GChipmunks_Murphy-A_Gill-G_Guan-G"]
+	path = 3/3GChipmunks_Murphy-A_Gill-G_Guan-G
+	url = https://github.com/TerryMinal/3GChipmunks
+[submodule "1/Adribma_Jaoutakas-A_Jahan-I_Hvirtsman-D"]
+	path = 1/Adribma_Jaoutakas-A_Jahan-I_Hvirtsman-D
+	url = git@github.com:ibnullify/merginess.git
+[submodule "1/time-space-barrier-Chan-M_Borisov-N_Bao-K"]
+	path = 1/time-space-barrier-Chan-M_Borisov-N_Bao-K
+	url = https://github.com/m2000chan/time-space-barrier.git
+[submodule "3/Merging_Han-J_Nag-A_Chen-R"]
+	path = 3/Merging_Han-J_Nag-A_Chen-R
+	url = https://github.com/JennyH129/Merging.git
+[submodule "4/TrioOfTwo_Chen-E_Bhatt-A"]
+	path = 4/TrioOfTwo_Chen-E_Bhatt-A
+	url = https://github.com/echen8/TrioOfTwo.git
+[submodule "3/ShakaLakaDingDong_Radosav-F_Wu-Y_Wong-M"]
+	path = 3/ShakaLakaDingDong_Radosav-F_Wu-Y_Wong-M
+	url = https://github.com/matteowong/ShakaLakaDingDong.git
+[submodule "5/FranciscanMonks_Tondolo-F_Pan-C_Vummidi-S"]
+	path = 5/FranciscanMonks_Tondolo-F_Pan-C_Vummidi-S
+	url = https://github.com/ftondolo/FranciscanMonks.git
+[submodule "4/DoubleTaoPlusEugene_Shi-X_Tao-I_Thomas-E"]
+	path = 4/DoubleTaoPlusEugene_Shi-X_Tao-I_Thomas-E
+	url = git@github.com:EugeneThomas/DoubleTao_Plus_Eugene.git
